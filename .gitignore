@@ -51,6 +51,7 @@ This is called when the context menu is being built(as the result of a sustained
 
 3-An anonymous inner class is an inner class that is declared without using a class name at all
     – and that of course is why it’s called an anonymous class.
+  the class which is not anonymous is called non anonymous.it same as class.
     
     
     
