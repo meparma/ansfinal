@@ -47,11 +47,13 @@ This is called when the context menu is being built(as the result of a sustained
 
 
 9-overloading is a feature of java.which allows a programmer to define one or more function with the same name but with different parameter.
+           overriding is a oops  language feature in which a method of base class is re-defined in child class.
 
-
-overriding is a oops  language feature in which a method of base class is re-defined in child class.
-
-
+3-An anonymous inner class is an inner class that is declared without using a class name at all
+    – and that of course is why it’s called an anonymous class.
+    
+    
+    
 
 
 
