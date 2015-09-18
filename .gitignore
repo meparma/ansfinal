@@ -4,3 +4,54 @@ of the function.interface does not contain the  function body.
 
 5-extends keyword we use to inherit a class.where as implements keyword we use to implement a interface in a class.
 6-typecasting is a method.that is used to convert one data type to another type.
+
+
+8-An event listener is an interface in the View class that contains a callback method. These methods will be called by the Android framework when the View to which the listener has been registered is triggered by user interaction with the item in the UI.
+
+
+              there are seven types of eventListner.
+  
+
+OnClickListener()
+
+This is called when the user either clicks or touches or focuses upon any widget like button, text, image etc. You will use onClick() event handler to handle such event.
+	
+
+OnLongClickListener()
+
+This is called when the user either clicks or touches or focuses upon any widget like button, text, image etc. for one or more seconds. You will use onLongClick() event handler to handle such event.
+
+
+OnFocusChangeListener()
+
+This is called when the widget looses its focus i.e. user goes away from the view item. You will use onFocusChange() event handler to handle such event.
+
+
+
+onKeyListener()
+This is called when the user is focused on the item and presses or releases a hardware key on the device. You will use onKey() event handler to handle such event.
+
+
+OnTouchListener()
+
+This is called when the user presses the key, releases the key, or any movement gesture on the screen. You will use onTouch() event handler to handle such event.
+
+OnMenuItemClickListener()
+
+This is called when the user selects a menu item. You will use onMenuItemClick() event handler to handle such event.
+
+
+onCreateContextMenuItemListener()
+
+This is called when the context menu is being built(as the result of a sustained "long click)
+
+
+9-overloading is a feature of java.which allows a programmer to define one or more function with the same name but with different parameter.
+
+
+overriding is a oops  language feature in which a method of base class is re-defined in child class.
+
+
+
+
+
