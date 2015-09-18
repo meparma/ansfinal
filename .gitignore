@@ -1,0 +1,6 @@
+1-findViewByid() it returns the object of View class,that object can be converted to another class object.
+4-package is collection of classes,and interface is similar to class only diff is that interface contains only the decleration
+of the function.interface does not contain the  function body.
+
+5-extends keyword we use to inherit a class.where as implements keyword we use to implement a interface in a class.
+6-typecasting is a method.that is used to convert one data type to another type.
