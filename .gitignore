@@ -55,6 +55,9 @@ This is called when the context menu is being built(as the result of a sustained
     
  12- gravity refers to the arrangement of content in View.
     
+    
+  10-  we use  margin like top,down,left,right to clears an area around an element (outside the border). 
+    The margin does not have a background color, and is completely transparent.
 
 
 
