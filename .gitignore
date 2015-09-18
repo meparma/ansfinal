@@ -3,7 +3,7 @@
 of the function.interface does not contain the  function body.
 
 5-extends keyword we use to inherit a class.where as implements keyword we use to implement a interface in a class.
-6-typecasting is a method.that is used to convert one data type to another type.
+6-typecasting is a method.that is used to convert one data type to another type
 
 
 8-An event listener is an interface in the View class that contains a callback method. These methods will be called by the Android framework when the View to which the listener has been registered is triggered by user interaction with the item in the UI.
